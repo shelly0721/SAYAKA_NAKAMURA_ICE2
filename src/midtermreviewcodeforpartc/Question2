@@ -1,0 +1,12 @@
+Question2 
+Main path and alternate path of one use case
+   --> Use case <Setting username and password>
+
+1.User wants to register the online UNO game.
+2.User is required to enter desired name.
+3.User is required to set password.
+    3.1 User enter desired password having 8 or more characters and
+        containing more than a special character.
+    3.2 User enter desired password which is less than 8 letters or without any special character.
+3.2.2 User see the requirements for password and is asked to enter again until user enter password fulfilling the requirement.
+4.User see the message "New User Added," his/her username.  
